@@ -23,3 +23,6 @@ Additionally, safety features are implemented to notify caretakers if the system
 - **Flask**: Web framework used to host the server
 - **HTML/CSS**: Frontend design and styling for the web UI
 - **C++ (Arduino)**: Embedded software for the button interface
+
+## The Code
+See 'Server' for the server code and 'Arduino' for the embedded button code.
